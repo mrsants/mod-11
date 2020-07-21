@@ -5,3 +5,4 @@ src
 nodemon.json
 .md
 .github
+.DS_Store
